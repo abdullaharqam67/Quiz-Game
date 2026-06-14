@@ -99,9 +99,9 @@ A colorful, feature-rich console-based quiz game built in C++. Test your knowled
 
 ## 👨‍💻 Author
 
-**Abdullah Arqam**  
-BS Artificial Intelligence — HITEC University, Taxila Cantt  
-🔗 [LinkedIn](www.linkedin.com/in/abdullah-arqam-9200a1404) | 📧 abdullaharqam67@gmail.com
+Abdullah Arqam  
+
+🔗 [LinkedIn](https://linkedin.com/in/abdullah-arqam-9200a1404) | 📧 abdullaharqam67@gmail.com
 
 ---
 
